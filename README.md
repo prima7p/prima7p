@@ -1,16 +1,15 @@
-## Hi there 👋
+Primada Purnama
 
-<!--
-**prima7p/prima7p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Latar Belakang
+Jelaskan secara singkat masalah apa yang menginspirasi ide ini dan mengapa solusi yang ada saat ini belum cukup baik. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Education
+* Information technology education / 
+Brawijaya University
+* 
+* 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🛠️(Tech Stack)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Skills](https://skillicons.dev/icons?i=html,css,javascript,java,figma,linkedin)](https://skillicons.dev)
+==============================================================================================================================================================================
