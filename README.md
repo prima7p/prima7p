@@ -1,15 +1,27 @@
 Primada Purnama
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+fullstack web developer
 
-Latar Belakang
-Jelaskan secara singkat masalah apa yang menginspirasi ide ini dan mengapa solusi yang ada saat ini belum cukup baik. 
+Pendidkan Teknologi Informasi,Universitas Brawijaya (Semester 3)
+Full Stack Web Developer yang andal dalam menjembatani keindahan desain dan keunggulan teknis. Berpengalaman
+mengubah rancangan UI/UX interaktif dari Figma menjadi aplikasi web performa tinggi menggunakan HTML, CSS, dan
+JavaScript. Memiliki pemahaman kuat dalam pengembangan sisi klien (Front-End) serta arsitektur server dan API
+(Back-End) menggunakan ekosistem Node.js. Terbiasa mengelola repositori kode secara rapi di GitHub dan
+berkolaborasi secara agile.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Technical Expertise
+
+Proramming Languages
+-
+javascip,java
+
+Frameworks & Technologies 
+-
+Html, css, figma
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Education
-* Information technology education / 
-Brawijaya University
-* 
-* 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠️(Tech Stack)
+(Tech Stack)
 
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,java,figma,linkedin)](https://skillicons.dev)
 ==============================================================================================================================================================================
