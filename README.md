@@ -27,7 +27,7 @@
 ## 🧰 Languages & Tools I Have Placed My Hands On
 <p align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,c,cpp,java,python,js,dotnet,csharp,pycharm,mysql,flask,django,pytorch,tensorflow" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,vscode,github,git,figma,python,mysql,lavarel" alt="Languages and tools" />
 </p>
 
 
