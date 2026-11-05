@@ -25,7 +25,7 @@
 ## 🧰 Languages & Tools I Have Placed My Hands On
 <p align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,vscode,github,git,figma,python,mysql,lavarel" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,vscode,github,git,figma,python,mysql,postman," alt="Languages and tools" />
 </p>
 
 
