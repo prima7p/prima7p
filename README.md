@@ -7,8 +7,6 @@
 ---
 
 ## 💫 About Me
-
-- 🌱 Memulai perjalanan Software Development dengan **ASP.NET MVC**
 - 🎓 Mahasiswa Pendidikan Teknologi Informasi Angkatan 25, FILKOM Universitas Brawijaya
 - 💻 Berpengalaman dengan **.NET Framework** dan **Full Stack Development**
 - 🎨 Mengerjakan **Front-End Development** dan **Web Design** di waktu luang
