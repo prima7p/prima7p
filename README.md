@@ -36,4 +36,12 @@
 </p>
 
 -----
+<div align="center">
+  <a href="https://github.com/JoshuaThadi">
+    <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Live%20Wallpapers/luffy1.gif" alt="Header Banner" />
+  </a>
+</div>
+
+<br/>
+
 
