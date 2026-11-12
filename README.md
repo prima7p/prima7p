@@ -4,18 +4,13 @@
   </a>
 </div>
 
-<br/>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=PrimadaPurnama&fontSize=50&fontColor=ffffff" alt="Header Banner" />
-</div>
 
-- 🎓 Mahasiswa Pendidikan Teknologi Informasi Angkatan 25, FILKOM Universitas Brawijaya
-- 💻 Berpengalaman dengan **.NET Framework** dan **Full Stack Development**
-- 🎨 Mengerjakan **Front-End Development** dan **Web Design** di waktu luang
-- 🤖 Tertarik pada **Artificial Intelligence, Machine Learning, Deep Learning, dan Data Science**
-- 💬 Silakan tanya tentang **Microsoft .NET, Full Stack Development, dan Python**
-- ✨ *I only like perfection.*
+  ### Hi there 👋
+  **Primada Purnama** | Pendidikan Teknologi Informasi 25 Filkom | Universitas Brawijaya
+
+  <br/>
 
 <p align="right">
   <b>Follow me on:</b><br>
