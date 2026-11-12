@@ -6,11 +6,9 @@
 
 <br/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MasterJudah+here+%F0%9F%94%A5!;Anonymous+Programmer;Front-End+Developer+%26+Data+Science+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<h3 align="center"> I'm Primada Purnama</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=PrimadaPurnama&fontSize=50&fontColor=ffffff" alt="Header Banner" />
+</div>
 
 ---
 
