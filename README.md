@@ -37,5 +37,5 @@
   </a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:111b21,100:263d47&height=150&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111b21,100:263d47&height=150&section=footer" width="100%" alt="Footer" />
 
