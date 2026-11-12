@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://github.com/JoshuaThadi">
+    <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/fallout_grayscale%20(1).gif" alt="Header Banner" />
+  </a>
+</div>
+
+<br/>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MasterJudah+here+%F0%9F%94%A5!;Anonymous+Programmer;Front-End+Developer+%26+Data+Science+Enthusiast" alt="Typing SVG" />
 </h1>
