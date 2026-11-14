@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/JoshuaThadi">
+  <a href="https://github.com/prima7p">
     <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/fallout_grayscale%20(1).gif" alt="Header Banner" />
   </a>
 </div>
