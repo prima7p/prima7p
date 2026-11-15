@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/prima7p">
-    <img width="100%" src="./assets/banner.gif" alt="Primada Purnama" />
+    <img width="100%" src="./banner.gif" alt="Primada Purnama" />
   </a>
 </div>
 
