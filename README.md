@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/prima7p" title="Primada Purnama">
-    <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/fallout_grayscale%20(1).gif" alt="Primada Purnama" />
+  <a href="https://github.com/prima7p">
+    <img width="100%" src="https://raw.githubusercontent.com/prima7p/prima7p/main/banner-primada.gif" alt="Primada Purnama" />
   </a>
 </div>
 
