@@ -1,8 +1,10 @@
 <div align="center">
+
   <a href="https://github.com/prima7p">
-    <img width="100%" src="https://raw.githubusercontent.com/prima7p/prima7p/main/banner-primada.gif" alt="Primada Purnama" />
+  <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/fallout_grayscale%20(1).gif" alt="Primada Purnama" />
   </a>
-</div>
+
+</div
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=&fontSize=50&fontColor=ffffff" alt="Header Banner" />
