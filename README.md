@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/prima7p">
-<img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/main/fallout_grayscale%20(1).gif" alt="Header Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/Primada Purnama/JoshuaThadi/main/fallout_grayscale%20(1).gif" alt="Header Banner" />
 
   </a>
 
