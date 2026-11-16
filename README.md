@@ -34,6 +34,15 @@
 </p>
 
 -----
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prima7p/prima7p/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prima7p/prima7p/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prima7p/prima7p/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
 <div align="center">
   <a href="https://github.com/JoshuaThadi">
     <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Live%20Wallpapers/luffy1.gif" alt="Header Banner" />
