@@ -1,0 +1,35 @@
+name: Generate Bomberman Contribution Graph
+
+on:
+  # Berjalan otomatis setiap hari pukul 00:00 UTC (07:00 WIB)
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Memungkinkan kamu menjalankan workflow secara manual dari tab Actions
+  workflow_dispatch:
+
+  # Berjalan otomatis setiap kali ada push ke branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate bomberman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: prima7p
+          game_theme: bomberman
+
+      - name: Push SVG files to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
